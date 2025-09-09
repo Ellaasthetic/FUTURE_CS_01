@@ -9,12 +9,16 @@ Download the file report titled **FUTURE_CS_01** from the `my-files` directory h
 ▶️ [Watch CSRF Video](https://www.loom.com/share/a9108c6222db4738846342a406bf700a)
 
 
-### 2. SQL Injection Attack Walkthrough  
+### 2. SQL Injection Attack Walkthrough (Low Security Level)  
 [![SQL Injection Attack Video](./thumbnail/high-success.PNG)](https://docs.google.com/videos/d/1yP1tgpw48pVpV5u3CtAzkMvGdEqw6vhjAxZ7YnfcHXM/edit?usp=sharing)  
 ▶️ [Watch SQL Injection Video](https://docs.google.com/videos/d/1yP1tgpw48pVpV5u3CtAzkMvGdEqw6vhjAxZ7YnfcHXM/edit?usp=sharing)
 
+### 3. SQL Injection Attack Walkthrough (Medium-High Security Level)  
+[![SQL Injection Attack Video](./thumbnail/HIGH-MEDIUM.PNG)](https://docs.google.com/videos/d/1v0807mXadT9yhq4gaZhur0mkQwsOZQElWUygLviwOKc/edit?usp=sharing)  
+▶️ [Watch SQL Injection Video](https://docs.google.com/videos/d/1v0807mXadT9yhq4gaZhur0mkQwsOZQElWUygLviwOKc/edit?usp=sharing)
 
-### 3. Brute Force Attack Walkthrough  
+
+### 4. Brute Force Attack Walkthrough  
 [![Brute Force Video](./thumbnail/brute-pass-found.PNG)](https://www.loom.com/share/9c4a6c3f034940b5a42b1c251619545f)  
 ▶️ [Watch Brute Force Video](https://www.loom.com/share/9c4a6c3f034940b5a42b1c251619545f)
 
