@@ -6,12 +6,12 @@ Download the file report titled **FUTURE_CS_01** from the `my-files` directory h
 
 ### 1. Cross-Site Request Forgery (CSRF) Walkthrough   
 [![Cross-Site Request Forgery (CSRF)](./thumbnail/successful-csrf-attack.PNG)](https://www.loom.com/share/a9108c6222db4738846342a406bf700a)  
-▶️ [Watch SQL Injection Video](https://www.loom.com/share/a9108c6222db4738846342a406bf700a)
+▶️ [Watch CSRF Video](https://www.loom.com/share/a9108c6222db4738846342a406bf700a)
 
 
 ### 2. SQL Injection Attack Walkthrough  
 [![SQL Injection Attack Video](./thumbnail/high-success.PNG)](https://drive.google.com/file/d/your-csrf-video-link-here/view)  
-▶️ [Watch CSRF Video](https://drive.google.com/file/d/your-csrf-video-link-here/view)
+▶️ [Watch SQL Injection Video](https://docs.google.com/videos/d/1yP1tgpw48pVpV5u3CtAzkMvGdEqw6vhjAxZ7YnfcHXM/edit?usp=sharing)
 
 
 ### 3. Brute Force Attack Walkthrough  
@@ -59,5 +59,5 @@ The objective was to discover and exploit common web vulnerabilities using ethic
 - Impact Analysis  
 - Security Recommendations  
 
-> 📂 All report files and evidence are included in this repository for review or demonstration purposes.
+> 📂 All report files and evidence are included in this repository for review or demonstration and educational purposes only.
 
