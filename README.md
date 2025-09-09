@@ -10,7 +10,7 @@ Download the file report titled **FUTURE_CS_01** from the `my-files` directory h
 
 
 ### 2. SQL Injection Attack Walkthrough  
-[![SQL Injection Attack Video](./thumbnail/high-success.PNG)](https://drive.google.com/file/d/your-csrf-video-link-here/view)  
+[![SQL Injection Attack Video](./thumbnail/high-success.PNG)](https://docs.google.com/videos/d/1yP1tgpw48pVpV5u3CtAzkMvGdEqw6vhjAxZ7YnfcHXM/edit?usp=sharing)  
 ▶️ [Watch SQL Injection Video](https://docs.google.com/videos/d/1yP1tgpw48pVpV5u3CtAzkMvGdEqw6vhjAxZ7YnfcHXM/edit?usp=sharing)
 
 
